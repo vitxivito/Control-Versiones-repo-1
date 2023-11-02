@@ -5,4 +5,5 @@ print(supabase.table ("Alumnos").select("*").eq("ID,"2,0)execute())
 print("hola")
 print("que tal")
 print("bien")
+print("mal")
 
