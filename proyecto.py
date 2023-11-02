@@ -4,3 +4,5 @@ supabase : Client = create_client("https://qpynwhslmdfavlxxpihu.supabase.co"), "
 print(supabase.table ("Alumnos").select("*").eq("ID,"2,0)execute())
 print("hola")
 print("que tal")
+print("bien")
+
