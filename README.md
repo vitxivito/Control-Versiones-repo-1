@@ -24,7 +24,6 @@ Este código utiliza la biblioteca Supabase Python Client para conectarse a una 
 ## Funcionalidades
 
 - Conexión a una base de datos Supabase.
-- Realización de una consulta para seleccionar datos de la tabla "Alumnos" donde el valor de la columna "ID" sea igual a 2.
 - Impresión de varios mensajes de prueba.
 
 ## Licencia
@@ -33,7 +32,7 @@ Este código está disponible bajo la [Licencia MIT](LICENSE.md).
 
 ## Contribución
 
-Si deseas contribuir a este proyecto o informar sobre problemas, siéntete libre de abrir problemas (issues) o enviar solicitudes de extracción (pull requests).
+Si quieres contribuir a este proyecto o informar sobre problemas, siéntete libre de abrir problemas (issues) o enviar solicitudes de extracción (pull requests).
 
 ## Autor
 
